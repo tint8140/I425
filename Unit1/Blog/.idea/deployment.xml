@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="MAMP Apache Server">
+    <serverData>
+      <paths name="MAMP Apache Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="I425\Unit1\Blog" local="$PROJECT_DIR$" web="/I425/Unit1/Blog" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
